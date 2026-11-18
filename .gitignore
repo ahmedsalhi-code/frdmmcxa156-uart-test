@@ -1,0 +1,15 @@
+# Build output
+Debug/
+Release/
+*.o
+*.d
+*.axf
+*.map
+*.su
+
+# IDE / workspace local state
+.metadata/
+*.bak
+
+# Stray Eclipse project created inside a source folder
+source/.project
